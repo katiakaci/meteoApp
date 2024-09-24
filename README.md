@@ -1,1 +1,1 @@
-# meteoApp
+# GTI525-lab1
